@@ -2,7 +2,7 @@
 A simple puzzle game where players guess logos by filling in letters.   Built with **SwiftUI + MVVM**
 
 ## ✨ Features
-- 🎯 Guess popular logos (Meesho, Aadhaar, BHIM demo data)
+- 🎯 Guess popular logos
 - 🖼️ AsyncImage loading for logos
 - ⌨️ Virtual letter keyboard (20 shuffled letters)
 - ✅ Validation and next-level logic
